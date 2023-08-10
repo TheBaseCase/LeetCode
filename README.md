@@ -2,5 +2,5 @@
 
 
 ## Matrix:
-### [IslandMatrix](https://github.com/TheBaseCase/LeetCode/blob/main/IslandMatrix/titles.md)
+### [Island Matrix](https://github.com/TheBaseCase/LeetCode/blob/main/IslandMatrix/titles.md)
 
