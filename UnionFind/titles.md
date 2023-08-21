@@ -8,7 +8,7 @@ Solution code (Weighted Union): https://github.com/TheBaseCase/LeetCode/blob/mai
 ## Part 2. LeetCode 547. Number of Provinces<br/>
 LeetCode: https://leetcode.com/problems/number-of-provinces<br/>
 YouTube: https://youtu.be/EkJjdmWwUYw<br/>
-Solution code (Quick Union): https://github.com/TheBaseCase/LeetCode/blob/main/UnionFind/547_quick.cs<br/>
+Solution code (Quick Union): https://github.com/TheBaseCase/LeetCode/blob/main/UnionFind/547_quick.cs<br/>git a
 Solution code (Weighted Union): https://github.com/TheBaseCase/LeetCode/blob/main/UnionFind/547_weighted.cs<br/>
 
 ## Part 3. LeetCode 684. Redundant Connection<br/>
