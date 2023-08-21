@@ -20,7 +20,7 @@ LeetCode: https://leetcode.com/problems/surrounded-regions/<br/>
 YouTube: https://youtu.be/rRhAXziQzVc<br/>
 Solution code: https://github.com/TheBaseCase/LeetCode/blob/main/IslandMatrix/130.cs<br/>
 
-## Part 5. Number of Closed Islands<br/>
+## Part 5. LeetCode 1254. Number of Closed Islands<br/>
 LeetCode: https://leetcode.com/problems/number-of-closed-islands<br/>
 YouTube: https://youtu.be/aVL6zGfQdhI<br/>
 Solution code: https://github.com/TheBaseCase/LeetCode/blob/main/IslandMatrix/1254.cs<br/>
