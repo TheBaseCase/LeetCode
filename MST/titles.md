@@ -17,6 +17,6 @@ Solution code: https://github.com/TheBaseCase/LeetCode/blob/main/MST/kruskal.cs<
 
 ## Part 4. LeetCode 1135. Connecting Cities With Minimum Cost<br/>
 LeetCode: https://leetcode.com/problems/connecting-cities-with-minimum-cost/<br/>
-LintCode: https://www.lintcode.com/problem/3672/
+LintCode: https://www.lintcode.com/problem/3672/<br/>
 YouTube: https://youtu.be/xN3EUa-Fff4<br/>
 Solution code: https://github.com/TheBaseCase/LeetCode/blob/main/MST/1135.java<br/>
