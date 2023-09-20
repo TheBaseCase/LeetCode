@@ -1,7 +1,7 @@
 # LeetCode Questions and Solutions
 
 ## Stack:
-### [Monotonic Stack](https://github.com/TheBaseCase/LeetCode/blob/main/Monotonic/titles.md)
+### [Monotonic Stack](https://github.com/TheBaseCase/LeetCode/blob/main/MonotonicStack/titles.md)
 
 ## Dynamic Programming:
 ### [Longest Increasing Subsequence](https://github.com/TheBaseCase/LeetCode/blob/main/LIS/titles.md)
