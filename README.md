@@ -15,6 +15,7 @@
 
 ## Graphs:
 ### [Minimum Spanning Tree (MST)](https://github.com/TheBaseCase/LeetCode/blob/main/MST/titles.md)
+### [Dijkstra's Algorithm](https://github.com/TheBaseCase/LeetCode/blob/main/Dijkstra/titles.md)
 ### [Union Find](https://github.com/TheBaseCase/LeetCode/blob/main/UnionFind/titles.md)
 
 
