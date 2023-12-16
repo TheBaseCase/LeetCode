@@ -3,6 +3,9 @@
 ## Stack:
 ### [Monotonic Stack](https://github.com/TheBaseCase/LeetCode/blob/main/MonotonicStack/titles.md)
 
+## Binary Search:
+### [Binary Search](https://github.com/TheBaseCase/LeetCode/blob/main/BinarySearch/titles.md)
+
 ## Dynamic Programming:
 ### [Longest Increasing Subsequence](https://github.com/TheBaseCase/LeetCode/blob/main/LIS/titles.md)
 
