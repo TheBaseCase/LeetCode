@@ -1,6 +1,6 @@
 # Binary Search
 
-## Part 1. 1283. Find the Smallest Divisor Given a Threshold<br/>
+## Part 1. LeetCode 1283. Find the Smallest Divisor Given a Threshold<br/>
 LeetCode: https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold<br/>
 YouTube: https://youtu.be/BgGbfEigWjA<br/>
 Solution code C#: https://github.com/TheBaseCase/LeetCode/blob/main/BinarySearch/1_1283.cs<br/>
