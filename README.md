@@ -12,6 +12,7 @@
 ## Matrices:
 ### [Paths in a Grid](https://github.com/TheBaseCase/LeetCode/blob/main/PathsInAGrid/titles.md)
 ### [Island Matrix](https://github.com/TheBaseCase/LeetCode/blob/main/IslandMatrix/titles.md)
+### [Depth First Search in a Grid](https://github.com/TheBaseCase/LeetCode/blob/main/GridDFS/titles.md)
 
 ## Trees:
 ### [Inorder Successor in BST](https://github.com/TheBaseCase/LeetCode/blob/main/InOrderSuccessor/titles.md)
